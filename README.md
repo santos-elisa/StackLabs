@@ -2,15 +2,13 @@
 
 **Stack Labs** is a collaborative initiative to help Data Science and Engineering students to build a portfolio, turning the knowledge obtained in the trainings into value for businesses.
 
-In this edition (2021-2022), around 100 students divided into about 20 squads were challenged to develop a **Data Science project** and present a solution to Olist on 2022-01-27.
+In this edition (2021-2022), around 100 students divided into about 20 squads were challenged to develop a **Data Science project** and present a solution to [Olist](https://olist.com/pt-br) on 2022-01-27.
 
 Participants will receive feedback to improve their critical skills in **Analytics, Data Science, Data Engineering and Storytelling**.
 
-Olist is a Brazilian Unicorn that offers e-commerce solutions for small and midsize businesses in Brazil.
+[Olist](https://olist.com/pt-br) is a Brazilian Unicorn that offers e-commerce solutions for small and midsize businesses in Brazil.
 
-Stack Labs are promoted by Stack Tecnologias: https://stacktecnologias.com.br
-
-Olist Store: https://olist.com/pt-br
+**Stack Labs** are promoted by [Stack Tecnologias](https://stacktecnologias.com.br).
 
 *This repository contains the contributions I made to the Databricks Squad.*
 
